@@ -1,4 +1,6 @@
+- Spanish / English - Español e ingles :D
 - 👋 Hi, I’m @vicmaHo
+- I'm from Colombia
 - 👀 I’m interested in learning to code. :D
 - 🌱 I’m currently learning the basics of programming and python. 
 - 💞️ I’m looking to collaborate on anything :)
